@@ -1,0 +1,18 @@
+
+/* Class = "UITabBarItem"; title = "C-TAB"; ObjectID = "AAg-8z-7LI"; */
+"AAg-8z-7LI.title" = "C-TAB";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "B7M-ld-dcU"; */
+"B7M-ld-dcU.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "B-TAB"; ObjectID = "Ij7-Bd-RHf"; */
+"Ij7-Bd-RHf.title" = "B-TAB";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JRZ-l9-3cb"; */
+"JRZ-l9-3cb.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "A-TAB"; ObjectID = "gJo-Rx-78G"; */
+"gJo-Rx-78G.title" = "A-TAB";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hyS-da-sDO"; */
+"hyS-da-sDO.text" = "Label";
