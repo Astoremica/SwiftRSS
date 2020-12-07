@@ -1,4 +1,4 @@
-# SwiftRSS 学校課題No.5
+# SwiftRSS 
 
 ## 内容
 
